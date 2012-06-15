@@ -1,1 +1,1 @@
-Write-Host "Hi, Mike!"
+Write-Output "Hi, Mike!"
